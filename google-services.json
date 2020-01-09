@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653843870764",
+    "firebase_url": "https://carku04-67508.firebaseio.com",
+    "project_id": "carku04-67508",
+    "storage_bucket": "carku04-67508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653843870764:android:e9633e346069fb148a0d89",
+        "android_client_info": {
+          "package_name": "com.android.rentalmobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653843870764-kf6093jk77hr5bg9spcl1jv7qjird9qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCopg8LzzuVXRMI_vfzgXUAV-ZYBuSGyM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653843870764-kf6093jk77hr5bg9spcl1jv7qjird9qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
